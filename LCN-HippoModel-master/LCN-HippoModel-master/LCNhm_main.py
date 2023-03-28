@@ -50,11 +50,11 @@ from LCNhm_configurationfile import *
 from LCNhm_functions import *
 from LCNhm_class import *
 
-print '''
-	------------------
-	| LCN-HippoModel |
-	------------------
-'''
+#print '''
+#	------------------
+#	| LCN-HippoModel |
+#	------------------
+#'''
 
 import sys
 import time

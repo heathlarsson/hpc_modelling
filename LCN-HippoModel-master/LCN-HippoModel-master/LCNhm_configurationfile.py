@@ -11,7 +11,7 @@ that can be recorded, you can to go :ref:`search`, and type "RECORDING_MAGNITUDE
 
 # MAIN DIRECTORY
 # --------------
-DIR_LOCATION = '/home/andrea/Projects/HippoModel/LCNhippomodel'
+DIR_LOCATION = r'C:\Users\Cornell\Documents\GitHub\hpc_modelling'
 OPT_FOLDER_NAME = 'test'
 
 # SIMULATION PROPERTIES
